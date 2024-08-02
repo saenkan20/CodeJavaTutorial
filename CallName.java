@@ -5,7 +5,7 @@ public class CallName {
 
     public static void Name() {
         for (int i = 0; i < 10; i++) {
-            System.out.println("Saenkan Snghatip");
+            System.out.println("Saenkan Singhatip");
         }
     }
 }
